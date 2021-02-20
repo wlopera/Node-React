@@ -1,7 +1,8 @@
 # Bakend
-Node JS utor: wlopera      @ DIC 2019
-Proyecto CRUD tabla de prodcutos. Realizado con  NodeJS - Express
+Node JS utor: wlopera      @ FEB 2021
+Proyecto CRUD tabla de productos. Realizado con  NodeJS - Express - React
 
+Debo ajustar las vistas - Uso de Base de datos de My sql Server 
 ## Codigo
 
 ![Captura 1](https://user-images.githubusercontent.com/7141537/70851138-8298cd80-1e5f-11ea-815f-acd88c027300.PNG)
